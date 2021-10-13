@@ -1,4 +1,4 @@
-# Vuex-Serie
+# Vue-sample-app
 ## Project setup
 ```
 npm install
